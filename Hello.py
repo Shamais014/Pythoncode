@@ -12,6 +12,7 @@ d= 10.5
 c = 'A'
 s = "Welcome"
 b = True
+k = 25
 
 print(a)
 print(type(a))
@@ -23,3 +24,5 @@ print(s)
 print(type(s))
 print(b)
 print(type(b))
+print(k)
+print(type(k))
